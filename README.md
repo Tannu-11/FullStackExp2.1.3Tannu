@@ -65,6 +65,7 @@ This API supports nested categories (subcategories) and product associations.
 ---
 
 ## Running the Server
-1. Navigate to the folder: `cd Exp2.1.3Tannu`
+1. Navigate to the folder: `cd FullStackExp2.1.3Tannu`
 2. Install dependencies: `npm install`
 3. Start the server: `node index.js` (or `npm run dev` if permitted)
+
